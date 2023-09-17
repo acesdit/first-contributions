@@ -1,4 +1,5 @@
-![project logo](assets/logo.png)
+<img src="assets/logo.png" alt="project logo" width="400">
+
 # First Contributions
 Place for beginners to make their first pull request.
 
