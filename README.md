@@ -70,6 +70,7 @@ You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'
 
 > Inspired by [first-contributions](https://github.com/firstcontributions/first-contributions/)
 
+\
 _A project by Association of Computer Engineering Students, DIT Pimpri_
 
 <img src="assets/aces-badge.png" alt="aces logo" width="300">
