@@ -1,3 +1,3 @@
 # Contributors
 
-- [Yash Jawale](https://github.com/yashjawale)
+- [Yash Jawalee](https://github.com/yashjawale)
