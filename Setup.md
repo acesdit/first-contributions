@@ -1,5 +1,7 @@
 # Setting up Git to work with your GitHub account
 
+Download & Install Git for your operating system from [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
 ## Add your username & email to git config
 
 Execute the following commands with your github account credentials to let git know your username & email
