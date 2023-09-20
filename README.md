@@ -70,6 +70,12 @@ git commit -m "Add YOURNAME to Contributors list"
 
 ## Push changes to GitHub
 
+Push your changes to your fork by running
+
+```bash
+git push origin main
+```
+
 Now if you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click it.
 
 Now submit the Pull Request.
