@@ -20,7 +20,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone the *forked* repository in your GitHub account to your computer. Go to your forked repository on GitHub website, click the code button and then click the _copy to clipboard_ icon.
+Now clone the **forked** repository in your GitHub account to your computer. Go to your forked repository on GitHub website, click the code button and then click the _copy to clipboard_ icon.
 
 <img src="assets/screenshots/clone-menu.png" alt="Clone Menu" width="400">
 
