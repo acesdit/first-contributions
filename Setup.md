@@ -37,8 +37,9 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ```bash
 eval "$(ssh-agent -s)"
-> Agent pid 59566
 ```
+> Agent pid 59566
+
 
 If you see a similar output, proceed to next step
 
@@ -103,8 +104,9 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ```bash
 eval "$(ssh-agent -s)"
-> Agent pid 59566
+
 ```
+> Agent pid 59566
 
 If you see a similar output, proceed to next step
 
@@ -192,8 +194,8 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ```bash
 eval "$(ssh-agent -s)"
-> Agent pid 59566
 ```
+> Agent pid 59566
 
 If you see a similar output, proceed to next step
 
