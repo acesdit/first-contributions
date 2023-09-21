@@ -10,6 +10,7 @@ GitHub CLI is GitHub's official open source tool for using GitHub directly from 
 ```bash
 winget install --id GitHub.cli
 ```
+> Close & reopen the terminal window after installation for the command to be available
 - MacOS via [Homebrew](https://brew.sh/) : 
 ```bash
 brew install sh
