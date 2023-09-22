@@ -1,6 +1,11 @@
-# Setting up Git to work with your GitHub account
+# Setting up Git & GitHub on your computer
 
+This document will help you to setup your computer to use Git & GitHub for your projects.
+
+## Prerequisites
 Download & Install Git for your operating system from [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+Create an account on [Github.com](https://github.com/)
 
 # Method 1: Using GitHub CLI (Recommended)
 GitHub CLI is GitHub's official open source tool for using GitHub directly from computer's command line & hence provides an easy to use credential system.
