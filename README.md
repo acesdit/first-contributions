@@ -4,6 +4,8 @@
 
 Place for beginners to make their first pull request.
 
+![GitHub contributors](https://img.shields.io/github/contributors/acesdit/first-contributions)
+
 ## Prerequisites
 
 You must have git installed & set up on your computer.\
