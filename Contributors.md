@@ -1,3 +1,5 @@
+![GitHub contributors](https://img.shields.io/github/contributors/acesdit/first-contributions)
+
 # Contributors
 
 - [Omkar Vasekar](https://github.com/omkarvasekar)
