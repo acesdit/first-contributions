@@ -282,3 +282,6 @@ ssh -T git@github.com
 ```
 
 </details>
+
+> Found a mistake or have other improvement for this guide?  
+Submit a Pull Request!

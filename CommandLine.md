@@ -61,3 +61,6 @@ Opening VSCode in specific ```<PATH>```
 Knowing Git Version
 
 ```git --version```
+
+> Found a mistake or have other improvement for this guide?  
+Submit a Pull Request!

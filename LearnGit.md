@@ -120,3 +120,6 @@ If you want to push your branch to GitHub as well, switch to your branch & execu
 ```bash
 git push -u origin <BRANCHNAME>
 ```
+
+> Found a mistake or have other improvement for this guide?  
+Submit a Pull Request!
