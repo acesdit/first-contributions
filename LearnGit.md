@@ -27,8 +27,8 @@ git add .
 
 This will add all the untracked files to a so called *"staging area"*. A fancy way of saying that now git will track changes in these files.
 
-> As new files are created, they won't be in the staging area automatically & you'll have to add them to staging area by yourself.  
-Once a file has been added to staging area you don't need to add it again.
+> As new changes are made, they won't be added to the staging area automatically & you'll have to add them to staging area by yourself.  
+
 
 ## Creating commits
 Now that git is tracking changes in your files, you'd want to create **snapshots** of your project so that you can get back to that state in the future.

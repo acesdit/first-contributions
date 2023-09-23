@@ -13,11 +13,12 @@ When you open the command line, you'll see a window with some text. This is your
 
 On Windows (Git Bash):
 
-> TODO: Add Git Bash Screenshot
+<img src="assets/screenshots/bash.png" alt="Git Bash Prompt" width="600">
 
+<br>
 On Mac/Linux:
 
-> TODO: Add Terminal Screenshot
+<img src="assets/screenshots/terminal.png" alt="Terminal Prompt" width="600">
 
 ## Navigation
 Here are some common commands to navigate around the filesystem.
@@ -39,7 +40,7 @@ Command | Usage
 ## Using Applications
 Similar to GUI, some applications also provide ways to access them through Command Line. eg. ```Git``` and ```Visual Studio Code```
 
-For using those applications, instead of clicking on an icon, you type its name in the terminal. And also sometimes provide parameters.
+For using these applications, instead of clicking on an icon, you type its name in the terminal. And also sometimes provide parameters.
 
 ### Flags in applications
 Some applications have some flags that provide useful information or invoke a specific functionality. Flags start with a single or double hyphen (eg. ```--version``` or ```-v```)
