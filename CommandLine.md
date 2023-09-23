@@ -22,36 +22,42 @@ On Mac/Linux:
 ## Navigation
 Here are some common commands to navigate around the filesystem.
 
-```cd <PATH>``` - Changes the current working directory to given ```<PATH>```.
+Command | Usage
+--------|-------
+```cd <PATH>```    | Changes the current working directory to given ```<PATH>```<br> eg. ```cd Downloads``` or ```cd Documents/MyFolder``` <br> When ```<PATH>``` isn't provided, cd navigates to the home directory of your computer.
+```ls``` | Shows files in the current working directory
+```ls -l``` | Same as ```ls``` but shows in list view
+```ls -a``` | Same as ```ls``` but also shows hidden files
+```ls -al``` | Combination of the above two <br> Here, ```-a``` & ```-l``` are known as the flags for the command
+```mkdir <FOLDERNAME>``` | Creates a new folder with the given name in the current working directory. <br> eg. ```mkdir Projects```
+```touch <FILENAME>``` | Creates an empty file with the given name in the current working directory. <br> eg. ```touch myfile.txt``` or ```touch app.py```
+```rm <FILENAME>``` | Deletes the file with the given name from the current working directory. <br>eg. ```rm app.py```
+```rm -r``` | Deletes folder along with any nested files.
+```rmdir``` | Deletes an empty folder.
+```clear``` | Clears the terminal screen of previous output.
 
-> eg. ```cd Downloads``` or ```cd Documents/MyFolder```
+## Using Applications
+Similar to GUI, some applications also provide ways to access them through Command Line. eg. ```Git``` and ```Visual Studio Code```
 
-When ```<PATH>``` isn't provided, cd navigates to the home directory of your computer.
+For using those applications, instead of clicking on an icon, you type its name in the terminal. And also sometimes provide parameters.
 
-```ls``` - Shows files in the current working directory
+### Flags in applications
+Some applications have some flags that provide useful information or invoke a specific functionality. Flags start with a single or double hyphen (eg. ```--version``` or ```-v```)
 
-```ls -l``` - Same as ```ls``` but shows in list view
+Previously, we used flags with the ```ls``` application to modify its results by using the ```-l``` & ```-a``` flags.
 
-```ls -a``` - Same as ```ls``` but also shows hidden files
+### Common command line application syntax
 
-```ls -al``` - Combination of the above two
+Opening VSCode in current folder
 
-> Here, ```-a``` & ```-l``` are known as the flags for the command
+```code .```
 
-```mkdir <FOLDERNAME>``` - Creates a new folder with the given name in the current working directory.
+Opening VSCode in specific ```<PATH>```
 
-> eg. ```mkdir Projects```
+```code <PATH>```
 
-```touch <FILENAME>``` - Creates an empty file with the given name in the current working directory.
+> When directly executing ```code``` without any parameters, it opens the most recently used folder.
 
-> eg. ```touch myfile.txt``` or ```touch app.py```
+Knowing Git Version
 
-```rm <FILENAME>``` - Deletes the file with the given name from the current working directory.
-
-> eg. ```rm app.py```
-
-```rm -r```
-
-```rmdir```
-
-```clear```
+```git --version```
