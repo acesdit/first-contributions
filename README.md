@@ -49,7 +49,7 @@ git branch branch_name
 Switch to the newly created branch
 
 ```bash
-git switch branch_name
+git checkout branch_name
 ```
 
 ## Make necessary changes
