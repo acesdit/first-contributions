@@ -40,7 +40,7 @@ Change to the repository directory on your computer (if not already there)
 cd first-contributions
 ```
 
-Now, create a branch using `git branch` command
+Now, create a branch using `git branch` command. Use your username for the branch name.
 
 ```bash
 git branch branch_name
