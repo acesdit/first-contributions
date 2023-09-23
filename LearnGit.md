@@ -27,7 +27,7 @@ git add .
 
 This will add all the untracked files to a so called *"staging area"*. A fancy way of saying that now git will track changes in these files.
 
-> As new changes are made, they won't be added to the staging area automatically & you'll have to add them to staging area by yourself.  
+> As new changes are made, they won't be added to the staging area automatically & you'll have to add them each time to the staging area by yourself.  
 
 
 ## Creating commits
@@ -51,11 +51,19 @@ Right now, your repository exists on your computer. If you need to share it with
 Log in to your account on [GitHub.com](https://github.com) & click on the create repository button. \
 Give your repository a name of your choice and hit *Create*.
 
-> TODO: Add screenshot of create button
+<img src="assets/screenshots/newrepository.png" width="400" alt="">
+<br>
+<img src="assets/screenshots/createform.png" width="400" alt="">
+
+<br>
+<br>
 
 Now copy the appropriate URL (HTTPS/SSH) of your repository depending upon your setup.
 
-> TODO: Add URL screenshot
+<br>
+<img src="assets/screenshots/copyhttp.png" alt="Copying http url" width="400">
+<br>
+<br>
 
 Now, to link the local repository on your computer to the newly created GitHub repository, execute the following
 
@@ -85,7 +93,11 @@ Git creates the main branch by default. This is the "official" version of your p
 
 When you want to add a new feature or fix a bug, you create a separate branch. It's like taking a detour from the main road to work on something specific. This way, your changes won't affect the main project until you're ready.
 
-> TODO: Add branching img
+
+<figure>
+<img src="assets/screenshots/gitbranches.png" width="400">
+<figcaption>Image Credits: https://www.nobledesktop.com/learn/git/git-branches</figcaption>
+</figure>
 
 ### Creating a new branch
 Create a new branch by executing
