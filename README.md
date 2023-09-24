@@ -4,6 +4,8 @@
 
 Place for beginners to make their first pull request.
 
+![GitHub contributors](https://img.shields.io/github/contributors/acesdit/first-contributions)
+
 ## Prerequisites
 
 You must have git installed & set up on your computer.\
@@ -20,7 +22,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone the forked repository to your computer. Go to your forked repository on GitHub website, click the code button and then click the _copy to clipboard_ icon.
+Now clone the **forked** repository in your GitHub account to your computer. Go to your forked repository on GitHub website, click the code button and then click the _copy to clipboard_ icon.
 
 <img src="assets/screenshots/clone-menu.png" alt="Clone Menu" width="400">
 
@@ -38,7 +40,7 @@ Change to the repository directory on your computer (if not already there)
 cd first-contributions
 ```
 
-Now, create a branch using `git branch` command
+Now, create a branch using `git branch` command. Use your username for the branch name.
 
 ```bash
 git branch branch_name
@@ -47,7 +49,7 @@ git branch branch_name
 Switch to the newly created branch
 
 ```bash
-git switch branch_name
+git checkout branch_name
 ```
 
 ## Make necessary changes
@@ -69,6 +71,12 @@ git commit -m "Add YOURNAME to Contributors list"
 ```
 
 ## Push changes to GitHub
+
+Push your changes to your fork by running
+
+```bash
+git push origin main
+```
 
 Now if you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click it.
 

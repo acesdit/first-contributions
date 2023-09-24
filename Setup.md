@@ -1,4 +1,49 @@
-# Setting up Git to work with your GitHub account
+# Setting up Git & GitHub on your computer
+
+This document will help you to setup your computer to use Git & GitHub for your projects.
+
+## Prerequisites
+Download & Install Git for your operating system from [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+Create an account on [Github.com](https://github.com/)
+
+# Method 1: Using GitHub CLI (Recommended)
+GitHub CLI is GitHub's official open source tool for using GitHub directly from computer's command line & hence provides an easy to use credential system.
+
+## Download & Install GitHub CLI
+- WIndows using [Winget (Preinstalled on Windows)](https://learn.microsoft.com/en-us/windows/package-manager/winget/): 
+```bash
+winget install --id GitHub.cli
+```
+> Close & reopen the terminal window after installation for the command to be available
+- MacOS via [Homebrew](https://brew.sh/) : 
+```bash
+brew install sh
+```
+- Linux (Ubuntu & other Debian based distros): 
+```bash
+sudo apt install gh
+``` 
+- Linux (Fedora & other RHEL based distros): 
+```bash
+sudo dnf install gh
+``` 
+
+## Logging into GitHub account
+After installing GitHub CLI, execute the following command to login with your GitHub account
+```bash
+gh auth login
+```
+- account type: **GitHub.com**
+- preferred protocol: **HTTPS**
+- Authenticate Git with GitHub credentials: **Yes**
+- Authentication method: **Login with a web browser**
+
+Copy the one-time code provided in the terminal & paste it in the browser window opened for logging in.
+
+🎉 You've successfully connected your GitHub account to Git on your computer. Verify using ```gh auth status```
+
+# Method 2: Using SSH
 
 ## Add your username & email to git config
 
@@ -35,8 +80,9 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ```bash
 eval "$(ssh-agent -s)"
-> Agent pid 59566
 ```
+> Agent pid 59566
+
 
 If you see a similar output, proceed to next step
 
@@ -101,8 +147,9 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ```bash
 eval "$(ssh-agent -s)"
-> Agent pid 59566
+
 ```
+> Agent pid 59566
 
 If you see a similar output, proceed to next step
 
@@ -190,8 +237,8 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ```bash
 eval "$(ssh-agent -s)"
-> Agent pid 59566
 ```
+> Agent pid 59566
 
 If you see a similar output, proceed to next step
 
@@ -235,3 +282,6 @@ ssh -T git@github.com
 ```
 
 </details>
+
+> Found a mistake or have other improvement for this guide?  
+Submit a Pull Request!
