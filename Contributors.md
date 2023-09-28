@@ -7,6 +7,6 @@
 - [Tanvi](https://github.com/tanvibaviskar)
 - [Prakhar](https://github.com/prakharpandey04)
 - [Jatin sharma](https://github.com/JV-2701)
+- [Nishant Kadlak](https://github.com/Nishantk30)
 - [Dipesh Chavan](https://github.com/DipeshC1707)
-
 
