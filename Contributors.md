@@ -7,6 +7,7 @@
 - [Tanvi](https://github.com/tanvibaviskar)
 - [Prakhar](https://github.com/prakharpandey04)
 - [Jatin sharma](https://github.com/JV-2701)
+-[Aniket Jaitkar](https://github.com/LEARNER1432)
 - [Divyanshu Khajuria](https://github.com/dk2655)
 - [Gitak Patil](https://github.com/gitak25)
 - [Pumang Kirange](https://github.com/pumang18)
