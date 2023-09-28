@@ -8,4 +8,6 @@
 - [Prakhar](https://github.com/prakharpandey04)
 - [Jatin sharma](https://github.com/JV-2701)
 - [Pumang Kirange](https://github.com/pumang18)
-
+- [Aman Shaikh](https://github.com/Brainstorm786)
+- [Nishant Kadlak](https://github.com/Nishantk30)
+- [Dipesh Chavan](https://github.com/DipeshC1707)
