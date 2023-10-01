@@ -11,6 +11,7 @@ Create an account on [Github.com](https://github.com/)
 GitHub CLI is GitHub's official open source tool for using GitHub directly from computer's command line & hence provides an easy to use credential system.
 
 ## Download & Install GitHub CLI
+- Download GitHub CLI from [here](https://cli.github.com/)
 - WIndows using [Winget (Preinstalled on Windows)](https://learn.microsoft.com/en-us/windows/package-manager/winget/): 
 ```bash
 winget install --id GitHub.cli
