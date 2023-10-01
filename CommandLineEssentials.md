@@ -30,6 +30,7 @@ Command | Usage
 ```ls -l``` | Same as ```ls``` but shows in list view
 ```ls -a``` | Same as ```ls``` but also shows hidden files
 ```ls -al``` | Combination of the above two <br> Here, ```-a``` & ```-l``` are known as the flags for the command
+```ls -a -l``` | Same as ```ls -al```
 ```mkdir <FOLDERNAME>``` | Creates a new folder with the given name in the current working directory. <br> eg. ```mkdir Projects```
 ```touch <FILENAME>``` | Creates an empty file with the given name in the current working directory. <br> eg. ```touch myfile.txt``` or ```touch app.py```
 ```rm <FILENAME>``` | Deletes the file with the given name from the current working directory. <br>eg. ```rm app.py```
