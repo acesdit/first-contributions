@@ -5,27 +5,31 @@ This document will help you to setup your computer to use Git & GitHub for your 
 ## Prerequisites
 Download & Install Git for your operating system from [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
+While setting up the installation for Git it is preferable follow the below recommendations:
+- For ```Choosing the default editor used by Git``` select any GUI based text editor that you are comfortable with 
+- For ```Adjusting the name of the initial branch in new repositories``` select ```Override the default branch name for new repositories```
+- For ```Configuring the experimental options``` check both ```Enable experimental support for pseudo consoles``` and ```Enable experimental built-in file system monitor```
+
 Create an account on [Github.com](https://github.com/)
 
 # Method 1: Using GitHub CLI (Recommended)
 GitHub CLI is GitHub's official open source tool for using GitHub directly from computer's command line & hence provides an easy to use credential system.
 
-## Download & Install GitHub CLI
-- Download GitHub CLI from [here](https://cli.github.com/)
-- WIndows using [Winget (Preinstalled on Windows)](https://learn.microsoft.com/en-us/windows/package-manager/winget/): 
+## Download & Install GitHub CLI 
+- For Windows download GitHub CLI from [here](https://cli.github.com/) or download it using [Winget (Preinstalled on Windows)](https://learn.microsoft.com/en-us/windows/package-manager/winget/): 
 ```bash
 winget install --id GitHub.cli
 ```
 > Close & reopen the terminal window after installation for the command to be available
-- MacOS via [Homebrew](https://brew.sh/) : 
+- For MacOS via [Homebrew](https://brew.sh/) : 
 ```bash
 brew install sh
 ```
-- Linux (Ubuntu & other Debian based distros): 
+- For Linux (Ubuntu & other Debian based distros): 
 ```bash
 sudo apt install gh
 ``` 
-- Linux (Fedora & other RHEL based distros): 
+- For Linux (Fedora & other RHEL based distros): 
 ```bash
 sudo dnf install gh
 ``` 
@@ -41,6 +45,7 @@ gh auth login
 - Authentication method: **Login with a web browser**
 
 Copy the one-time code provided in the terminal & paste it in the browser window opened for logging in.
+
 
 🎉 You've successfully connected your GitHub account to Git on your computer. Verify using ```gh auth status```
 
