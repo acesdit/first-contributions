@@ -17,3 +17,4 @@
 - [Dipesh Chavan](https://github.com/DipeshC1707)
 - [Sarthak Deokar](https://github.com/ZizzleStark)
 - [Shreedhar](https://github.com/Shreedhar03)
+- [VaibhaviDixit](https://github.com/vaibhaviDixit)
