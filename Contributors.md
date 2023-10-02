@@ -1,4 +1,5 @@
 # Contributors
+
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Yash Jawale](https://github.com/yashjawale)
@@ -6,7 +7,7 @@
 - [Aditya Pawar](https://github.com/AdityaPawar6174)
 - [Tanvi](https://github.com/tanvibaviskar)
 - [Prakhar](https://github.com/prakharpandey04)
-- [Saee Shinde](https://github.com/saeeshinde) 
+- [Saee Shinde](https://github.com/saeeshinde)
 - [Jatin sharma](https://github.com/JV-2701)
 - [Aniket Jaitkar](https://github.com/LEARNER1432)
 - [Divyanshu Khajuria](https://github.com/dk2655)
@@ -20,4 +21,5 @@
 - [Rahul](https://github.com/rahulscript)
 - [VaibhaviDixit](https://github.com/vaibhaviDixit)
 - [Sujal Bagade](https://github.com/SujalBagade)
-
+- [Vardhaman Bhandari](https://github.com/Vardhaman619)
+- [Nishantsurve](https://github.com/Nishantsurve)
