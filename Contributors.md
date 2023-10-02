@@ -18,3 +18,4 @@
 - [Sarthak Deokar](https://github.com/ZizzleStark)
 - [Shreedhar](https://github.com/Shreedhar03)
 - [Rahul](https://github.com/rahulscript)
+- [VaibhaviDixit](https://github.com/vaibhaviDixit)
