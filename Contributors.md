@@ -22,4 +22,4 @@
 - [VaibhaviDixit](https://github.com/vaibhaviDixit)
 - [Vardhaman Bhandari](https://github.com/Vardhaman619)
 - [Nishantsurve](https://github.com/Nishantsurve)
-- [Nikhil Waghmode](https://github.com/NikhilWaghmode09)
+- [Nikhil W](https://github.com/NikhilWaghmode09)
