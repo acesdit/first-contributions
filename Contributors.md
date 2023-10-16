@@ -24,3 +24,4 @@
 - [Vardhaman Bhandari](https://github.com/Vardhaman619)
 - [Nishantsurve](https://github.com/Nishantsurve)
 - [Nikhil W](https://github.com/NikhilWaghmode09)
+- [Shazia](https://github.com/ShaziaKhateeb)
