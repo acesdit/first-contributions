@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Rajesh Marathe](https://github.com/HERORAM-TECH)
 - [Sudhanshu vasave](https://github.com/siddache)
 - [Sumedh Kadam](https://github.com/Sumedh1007C)
 - [Gayatri Chim](https://github.com/gayatrichim)
