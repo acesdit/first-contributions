@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Vaibhav Bodade](https://github.com/vaibhavdb14)
 - [Manisha Tawade](https://github.com/Manisha_Tawade)
 - [Aayush Tambat](https://github.com/aayushtambat06)
 - [Ashwin Luhar](https://github.com/Ashwin44p)
