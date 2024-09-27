@@ -99,4 +99,5 @@
 - [Ajit Chavan](https://github.com/Ajit2006-web)
 - [PRIYANKA SHEWALE](https://github.com/PRIYANKA-SHEWALE-code)
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
-- [Mahesh Bhutda](https://github.com/MahiBot369 )
+- [Mahesh Bhutda](https://github.com/MahiBot369)
+- [Vinay Logade](https://github.com/Vinay072006)
