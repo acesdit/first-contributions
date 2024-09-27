@@ -15,7 +15,7 @@
 - [Pumang Kirange](https://github.com/pumang18)
 - [Aman Shaikh](https://github.com/Brainstorm786)
 - [Nishant Kadlak](https://github.com/Nishantk30)
-- [Dipesh Chavan](https://github.com/DipeshC1707)
+- [Dipesh Chavan](https://github.com/DipeshC1707)s
 - [Sarthak Deokar](https://github.com/ZizzleStark)
 - [Shreedhar](https://github.com/Shreedhar03)
 - [Rahul](https://github.com/rahulscript)
@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Utkarsh Chaudhari](https://github.com/utkarshsc05)
 - [Bhagyashree Mataghare](https://github.com/bhagyashree1616)
 - [Chirag Gupta](https://github.com/chiraggupta1411)
 - [Prasad Girigosavi](https://github.com/co-ff-ee)
@@ -39,6 +40,5 @@
 - [SUJAL KALAMKAR](https://github.com/SUJALK2002/) 
 - [Sujal Pawar](https://github.com/sujal-pawar)
 - [Eshwari patil](https://github.com/eshwari-patil )
-
 
 
