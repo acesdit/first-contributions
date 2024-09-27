@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Palavi Bhave](https://github.com/PalaviBhave)
 - [Ajinkya Shelke](https://github.com/Lucifer66-neo)
 - [Pooran Borana](https://github.com/Prem3018)
 - [Ajit Salunke](https://github.com/Ajx897)
