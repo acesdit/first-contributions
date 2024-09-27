@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Samruddhi Beldar](https://github.com/samruddhi0706)
 - [Prerna Kadus](https://github.com/PrernaKadus2625)
 - [Prasanna Thombare](https://github.com/Prasanna5467)
 - [Payal Jadhav](https://github.com/Payaljadhav30)
