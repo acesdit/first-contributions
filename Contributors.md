@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Prasad Girigosavi](https://github.com/co-ff-ee)
 - [mayur patil](https://github.com/patilmayurviks)
 - [Tulsi Sikchi](https://github.com/tulsisikchi)
 - [Rohit Soni](https://github.com/RohitSoni1234)
