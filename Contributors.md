@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Bhagyashree Mataghare](https://github.com/bhagyashree1616)
 - [Chirag Gupta](https://github.com/chiraggupta1411)
 - [Prasad Girigosavi](https://github.com/co-ff-ee)
 - [mayur patil](https://github.com/patilmayurviks)
@@ -38,5 +39,6 @@
 - [SUJAL KALAMKAR](https://github.com/SUJALK2002/) 
 - [Sujal Pawar](https://github.com/sujal-pawar)
 - [Eshwari patil](https://github.com/eshwari-patil )
+
 
 
