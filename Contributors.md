@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Naresh Ashok Mali](https://github.com/NARESH-ASHOK-MALI)
 - [Vivek Jadhav](https://github.com/vivekjadhav23)
 - [Yash Garole](https://github.com/vivekjadhav23)
 - [Palavi Bhave](https://github.com/PalaviBhave)
