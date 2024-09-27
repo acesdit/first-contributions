@@ -27,3 +27,4 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Sumedh Kadam](https://github.com/Sumedh1007C)
