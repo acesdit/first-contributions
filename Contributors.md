@@ -28,3 +28,17 @@
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
 - [Bhagyashree Mataghare](https://github.com/bhagyashree1616)
+- [Chirag Gupta](https://github.com/chiraggupta1411)
+- [Prasad Girigosavi](https://github.com/co-ff-ee)
+- [mayur patil](https://github.com/patilmayurviks)
+- [Tulsi Sikchi](https://github.com/tulsisikchi)
+- [Rohit Soni](https://github.com/RohitSoni1234)
+- [Gopal Bhunje](https://github.com/gopalbhunje)
+- [Vedant Gaikwad](https://github.com/confused1cloud)
+- [Korade Sakshi](https://github.com/KoradeSakshi)
+- [SUJAL KALAMKAR](https://github.com/SUJALK2002/) 
+- [Sujal Pawar](https://github.com/sujal-pawar)
+- [Eshwari patil](https://github.com/eshwari-patil )
+
+
+
