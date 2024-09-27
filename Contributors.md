@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Vivek Dhengale](https://github.com/vivek-the-weber)
 - [Garima Navlakha](https://github.com/Garimanavlakha152005)
 - [Vaibhav Sonar](https://github.com/vaibhavsonar2309)
 - [Shreya Bhonkar](https://github.com/shreya-3005)
