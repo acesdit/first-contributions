@@ -93,10 +93,13 @@
 - [Pratik Shinde](https://github.com/PratikShinde117)
 - [Sarthak Mungase](https://github.com/Sarthak1805)
 - [Aryan Tambe](https://github.com/AryanTambe28)
-- [Sujata Jadhav](https://github.com/jadhav205)
+- [Sujata Jadhav](https://github.com/jadhav200
 - [Dnyaneshwari Pawar](https://github.com/DnyaneshwariPawar273)
 - [Janhavi Banekar](https://github.com/JanhaviBanekar)
 - [Ajit Chavan](https://github.com/Ajit2006-web)
 - [PRIYANKA SHEWALE](https://github.com/PRIYANKA-SHEWALE-code)
-- [Dipak Gayakwad](https://github.com/Deepgayakwad)
+- [Dipak Gayakwad](https://github.com/Deepgayakw
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
+-[Suyog-Kate](https://github.com/Suyog-Kate )
+
+-
