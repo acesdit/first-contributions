@@ -81,6 +81,7 @@
 - [Eshwari patil](https://github.com/eshwari-patil)
 - [Prayukti Deore](https://github.com/PrayuktiDeore)
 - [Eshwari patil](https://github.com/eshwari-patil )
+- [Srushti Bhujbal](https://github.com/SrushtiBhujbal )
 - [Pratik Shinde](https://github.com/PratikShinde117)
 - [Sarthak Mungase](https://github.com/Sarthak1805)
 - [Aryan Tambe](https://github.com/AryanTambe28)
