@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Dhara Rajpurohit](https://github.com/Dhara06)
 - [Purva Sawant](https://github.com/Purva-byte)
 - [Harshvardhan Patil](https://github.com/Harsh4949)
 - [Vaibhav Bodade](https://github.com/vaibhavdb14)
