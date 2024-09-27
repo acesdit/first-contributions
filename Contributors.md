@@ -79,3 +79,4 @@
 - [SUJAL KALAMKAR](https://github.com/SUJALK2002/) 
 - [Sujal Pawar](https://github.com/sujal-pawar)
 - [Eshwari patil](https://github.com/eshwari-patil )
+- [Yash Arote](https://github.com/https://github.com/Yaasshhhhh)
