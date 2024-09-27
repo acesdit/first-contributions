@@ -84,6 +84,7 @@
 - [Eshwari patil](https://github.com/eshwari-patil)
 - [Prayukti Deore](https://github.com/PrayuktiDeore)
 - [Eshwari patil](https://github.com/eshwari-patil )
+- [Aniket Adhav](https://github.com/aniketadhav55)
 - [Bhakti Humbe](https://github.com/Bhakti-Humbe )
 - [Rudra Darwey](https://github.com/RudraDarwey)
 - [manthan patil](https://github.com/manthan471 )
