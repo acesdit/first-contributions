@@ -81,6 +81,7 @@
 - [Eshwari patil](https://github.com/eshwari-patil)
 - [Prayukti Deore](https://github.com/PrayuktiDeore)
 - [Eshwari patil](https://github.com/eshwari-patil )
+- [Sujata Jadhav](https://github.com/jadhav205)
 - [Dnyaneshwari Pawar](https://github.com/DnyaneshwariPawar273)
 - [Janhavi Banekar](https://github.com/JanhaviBanekar)
 - [Ajit Chavan](https://github.com/Ajit2006-web)
