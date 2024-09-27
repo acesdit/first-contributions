@@ -28,3 +28,5 @@
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
 - [Korade Sakshi](https://github.com/KoradeSakshi)
+- [Sujal Pawar](https://github.com/sujal-pawar)
+- [Eshwari patil](https://github.com/eshwari-patil )
