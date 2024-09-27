@@ -27,13 +27,8 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
-
-
+- [Prerna Kadus](https://github.com/PrernaKadus2625)
 - [Prasanna Thombare](https://github.com/Prasanna5467)
-
-
-
-
 - [Payal Jadhav](https://github.com/Payaljadhav30)
 - [Mansi Ambekar](https://github.com/mansa191219)
 - [Utkarsh Chaudhari](https://github.com/utkarshsc05)
@@ -49,5 +44,4 @@
 - [SUJAL KALAMKAR](https://github.com/SUJALK2002/) 
 - [Sujal Pawar](https://github.com/sujal-pawar)
 - [Eshwari patil](https://github.com/eshwari-patil )
-
 
