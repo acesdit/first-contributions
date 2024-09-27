@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Sumedh Kadam](https://github.com/Sumedh1007C)
 - [Gayatri Chim](https://github.com/gayatrichim)
 - [Vivek Abhale](https://github.com/viv787)
 - [Pranjal](https://github.com/abcpranjal/pranjal)
