@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Tulsi Sikchi](https://github.com/tulsisikchi)
 - [Rohit Soni](https://github.com/RohitSoni1234)
 - [Gopal Bhunje](https://github.com/gopalbhunje)
 - [Vedant Gaikwad](https://github.com/confused1cloud)
@@ -34,3 +35,4 @@
 - [SUJAL KALAMKAR](https://github.com/SUJALK2002/) 
 - [Sujal Pawar](https://github.com/sujal-pawar)
 - [Eshwari patil](https://github.com/eshwari-patil )
+
