@@ -27,6 +27,7 @@
 - [Shazia](https://github.com/ShaziaKhateeb)
 - [YASH](https://github.com/yashcodes29)
 - [Soham Gadekar](https://github.com/SOHAM-GADEKAR)
+- [Vivek Abhale](https://github.com/viv787)
 - [Pranjal](https://github.com/abcpranjal/pranjal)
 - [Srushti Khadake](https://github.com/Srushti77-khadake)
 - [Sanika Kate](https://github.com/sanika6116)
@@ -48,4 +49,3 @@
 - [SUJAL KALAMKAR](https://github.com/SUJALK2002/) 
 - [Sujal Pawar](https://github.com/sujal-pawar)
 - [Eshwari patil](https://github.com/eshwari-patil )
-
