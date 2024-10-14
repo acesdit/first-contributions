@@ -103,6 +103,7 @@
 -[Suyog-Kate](https://github.com/Suyog-Kate )
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
+- [Anuj Pathak](https://github.com/anujpathak07)
 - [Swaraj R Chinnannavar](https://github.com/Swaraj-RC)
 - [Mahesh Bhutda](https://github.com/MahiBot369)
 - [Vinay Logade](https://github.com/Vinay072006)
