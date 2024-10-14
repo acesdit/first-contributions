@@ -100,6 +100,7 @@
 - [PRIYANKA SHEWALE](https://github.com/PRIYANKA-SHEWALE-code)
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
+- [Om Thorat](https://github.com/OmThorat17)
 - [Krishna Bagul](https://github.com/krishnabagul-sketch )
 - [hitesh divnale](https://github.com/HiteshDivnale/first-contributions.git)
 - [Khushi Bane](https://github.com/khushi-eng )
@@ -112,4 +113,3 @@
 - [Chetan Kharade](https://github.com/Chetan9123)
 - [Ashutosh Raj](https://github.com/ashhh17-sys)
 - [Shrimun Agarwal](https://github.com/shri-915)
-
