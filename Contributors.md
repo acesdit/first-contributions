@@ -132,7 +132,7 @@
 - [hitesh divnale](https://github.com/HiteshDivnale/first-contributions.git)
 - [Khushi Bane](https://github.com/khushi-eng )
 - [GAYATRI MAHAJAN](https://github.com/Gayatri092 )
-- [Surya pratap singh ] (https://github.com/Surya1087)
+- [Surya pratap singh](https://github.com/Surya1087)
 - [om mardane](https://github.com/om-mardane)
 - [Isha](https://github.com/Ishabhosale )
 - [Aditi Kadam](https://github.com/Aditikadam999)
