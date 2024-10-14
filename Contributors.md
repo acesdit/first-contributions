@@ -100,6 +100,7 @@
 - [PRIYANKA SHEWALE](https://github.com/PRIYANKA-SHEWALE-code)
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
+- [Isha](https://github.com/Ishabhosale )
 - [Aditi Kadam](https://github.com/Aditikadam999)
 - [Advait Dahitule](https://github.com/Advait777 )
 - [Chetan Kharade](https://github.com/Chetan9123)
