@@ -103,6 +103,8 @@
 -[Suyog-Kate](https://github.com/Suyog-Kate )
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
+- [Chetan Kharade](https://github.com/Chetan9123)
+- [Chetan Reddy](https://github.com/ChetanReddy1303)
 - [Anuj Pathak](https://github.com/anujpathak07)
 - [Swaraj R Chinnannavar](https://github.com/Swaraj-RC)
 - [Mahesh Bhutda](https://github.com/MahiBot369)
@@ -138,4 +140,3 @@
 - [Chetan Kharade](https://github.com/Chetan9123)
 - [Ashutosh Raj](https://github.com/ashhh17-sys)
 - [Shrimun Agarwal](https://github.com/shri-915)
-
