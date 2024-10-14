@@ -100,6 +100,7 @@
 - [PRIYANKA SHEWALE](https://github.com/PRIYANKA-SHEWALE-code)
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
+- [Pravin Patil](https://github.com/patilpravin0405)
 - [Mrunali Mane](https://github.com/MahiBot369 )
 - [Omkar Hotkar](https://github.com/Omkarhotkar )
 - [Srushti Jadhav](https://github.com/Srushtijadhav1404 )
