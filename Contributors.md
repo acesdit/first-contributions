@@ -1,5 +1,5 @@
 # Contributors
-
+- [YASH PATIL](https://github.com/yashcodes29)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
