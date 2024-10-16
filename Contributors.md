@@ -1,5 +1,5 @@
 # Contributors
-
+- [Shraddha Ghadge](https://github.com/Shraddha7171)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
