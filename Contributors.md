@@ -1,5 +1,5 @@
 # Contributors
-
+- [Harshal Shahare](https://github.com/Harshal0503)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
