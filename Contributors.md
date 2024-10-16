@@ -1,5 +1,5 @@
 # Contributors
-
+- [Kabir Shaikh](https://github.com/Kabira24)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
