@@ -1,5 +1,5 @@
 # Contributors
-
+- [Soham Mahajan](https://github.com/Soham568)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
