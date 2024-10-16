@@ -1,4 +1,4 @@
-- [Sarthak Benodkar](https://github.com/SarthakB2005/first-contributions)
+- [Sarthak Benodkar](https://github.com/SarthakB2005)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
