@@ -1,5 +1,5 @@
 # Contributors
-
+- [Prathamesh Bam](https://github.com/just-pratham)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
