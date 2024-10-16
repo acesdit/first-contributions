@@ -1,5 +1,5 @@
 # Contributors
-
+- [Neel Malpure](https://github.com/Neelmalpure)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
