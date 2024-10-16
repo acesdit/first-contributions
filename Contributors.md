@@ -1,5 +1,5 @@
 # Contributors
-
+- [Pranav Mulik](https://github.com/PranavMulik)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
