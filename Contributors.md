@@ -1,5 +1,5 @@
 # Contributors
-
+- [Swikriti Ghosh](https://github.com/Srg-hub)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
