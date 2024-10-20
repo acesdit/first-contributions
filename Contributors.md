@@ -1,4 +1,6 @@
-- [Sarthak Benodkar](https://github.com/SarthakB2005)
+# Contributors
+- [Shraddha Ghadge](https://github.com/Shraddha7171)
+- [Swikriti Ghosh](https://github.com/Srg-hub)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
@@ -140,3 +142,6 @@
 - [Chetan Kharade](https://github.com/Chetan9123)
 - [Ashutosh Raj](https://github.com/ashhh17-sys)
 - [Shrimun Agarwal](https://github.com/shri-915)
+- [Prashant Girme](https://github.com/prashant5323)
+- [Tapanwita Debnath](https://github.com/tapanwitaDth)
+- [Sarthak Benodkar](https://github.com/SarthakB2005)
