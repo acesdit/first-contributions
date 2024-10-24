@@ -1,4 +1,5 @@
 # Contributors
+- [Sanidhya Kumar](https://github.com/Sanidhyafeaturist)
 - [Shraddha Ghadge](https://github.com/Shraddha7171)
 - [Swikriti Ghosh](https://github.com/Srg-hub)
 - [Surapto Sinha](https://github.com/sinhasurapto)
@@ -145,3 +146,6 @@
 - [Prashant Girme](https://github.com/prashant5323)
 - [Tapanwita Debnath](https://github.com/tapanwitaDth)
 - [Sarthak Benodkar](https://github.com/SarthakB2005)
+- [Kaushik Sambe] (https://github.com/Kasa1905)
+- [Soham Deshmukkh](https://github.com/Soham-2)
+
