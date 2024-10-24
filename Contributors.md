@@ -1,5 +1,6 @@
 # Contributors
 
+- [Rahul jadhav](https://github.com/rahulj2122005)
 - [Harshal Shahare](https://github.com/Harshal0503)
   [dhanashree desai](https://github.com/sinhasurapto)
 - [Anuja Dawkhar](https://github.com/Anujadawkhar)
