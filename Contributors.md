@@ -1,4 +1,6 @@
 # Contributors
+
+- [Harshal Shahare](https://github.com/Harshal0503)
   [dhanashree desai](https://github.com/sinhasurapto)
 - [Anuja Dawkhar](https://github.com/Anujadawkhar)
 - [Sanidhya Kumar](https://github.com/Sanidhyafeaturist)
