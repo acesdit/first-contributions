@@ -1,4 +1,5 @@
 # Contributors
+- [Sanidhya Kumar](https://github.com/Sanidhyafeaturist)
 - [Shraddha Ghadge](https://github.com/Shraddha7171)
 - [Swikriti Ghosh](https://github.com/Srg-hub)
 - [Surapto Sinha](https://github.com/sinhasurapto)
