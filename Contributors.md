@@ -145,6 +145,7 @@
 - [Shrimun Agarwal](https://github.com/shri-915)
 - [Prashant Girme](https://github.com/prashant5323)
 - [Tapanwita Debnath](https://github.com/tapanwitaDth)
+- [Sarthak Benodkar](https://github.com/SarthakB2005)
 - [Kaushik Sambe] (https://github.com/Kasa1905)
 - [Soham Deshmukkh](https://github.com/Soham-2)
 
