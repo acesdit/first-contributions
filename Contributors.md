@@ -1,5 +1,12 @@
 # Contributors
+
 - [Rahul jadhav](https://github.com/rahulj2122005)
+- [Harshal Shahare](https://github.com/Harshal0503)
+  [dhanashree desai](https://github.com/sinhasurapto)
+- [Anuja Dawkhar](https://github.com/Anujadawkhar)
+- [Sanidhya Kumar](https://github.com/Sanidhyafeaturist)
+- [Shraddha Ghadge](https://github.com/Shraddha7171)
+- [Swikriti Ghosh](https://github.com/Srg-hub)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
@@ -141,3 +148,9 @@
 - [Chetan Kharade](https://github.com/Chetan9123)
 - [Ashutosh Raj](https://github.com/ashhh17-sys)
 - [Shrimun Agarwal](https://github.com/shri-915)
+- [Prashant Girme](https://github.com/prashant5323)
+- [Tapanwita Debnath](https://github.com/tapanwitaDth)
+- [Sarthak Benodkar](https://github.com/SarthakB2005)
+- [Kaushik Sambe] (https://github.com/Kasa1905)
+- [Soham Deshmukkh](https://github.com/Soham-2)
+
