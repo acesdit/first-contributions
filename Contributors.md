@@ -1,4 +1,6 @@
 # Contributors
+
+- [Anuja Dawkhar](https://github.com/Anujadawkhar)
 - [Sanidhya Kumar](https://github.com/Sanidhyafeaturist)
 - [Shraddha Ghadge](https://github.com/Shraddha7171)
 - [Swikriti Ghosh](https://github.com/Srg-hub)
